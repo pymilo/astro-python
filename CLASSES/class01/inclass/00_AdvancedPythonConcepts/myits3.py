@@ -6,4 +6,4 @@ def fib():
     while True:
         yield a
         i += 1
-        a, b = b,a + b
+        a, b = b, a + b
